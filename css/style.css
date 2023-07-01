@@ -1,0 +1,20 @@
+.date {
+    border-right: 1px solid rgba(157, 157, 157, 25);
+}
+
+.plus, .minus, .edit {
+    width: 26px;
+    margin-right: 10px;
+}
+
+.minus {
+
+}
+
+.plus {
+
+}
+
+.edit {
+
+}
